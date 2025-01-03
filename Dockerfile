@@ -1,4 +1,4 @@
-FROM ghcr.io/asfopensarlab/deployment-opensarlab-container_sar:sha256-617ac13
+FROM ghcr.io/asfopensarlab/deployment-opensarlab-container_sar:sha-617ac13
 
 COPY geos419.yml /tmp/geos419.yml
 
